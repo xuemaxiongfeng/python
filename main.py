@@ -11,7 +11,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('XUEMAXIONGFENG')
+    print_hi('血妈雄风')
     print_hi('XUEMAXIONGFENG')
     print_hi('XUEMAXIONGFENG')
 

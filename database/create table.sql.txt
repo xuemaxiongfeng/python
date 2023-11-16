@@ -1,0 +1,14 @@
+drop table if exists `international_news`;
+CREATE TABLE `international_news` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT COMMENT '主键id',
+  `time` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '发布时间',
+	`title` varchar(50) NOT NULL COMMENT '标题',
+	`address` varchar(255) NOT NULL COMMENT '网址',
+	`countryarea` varchar(20) COMMENT '国家地区',
+	`mainbody` varchar(20) COMMENT '事件主题(组织/单位/人/品牌)',
+	`cls` varchar(10) NOT NULL COMMENT '类别',
+	`clskeyword` varchar(20) COMMENT '类别关键词',
+	`contentkeyword` varchar(20) COMMENT '内容关键词',
+	`content` text COMMENT '内容',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4;

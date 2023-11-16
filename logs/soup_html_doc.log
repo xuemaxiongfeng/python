@@ -1,0 +1,36 @@
+2023-10-30 22:01:45,139|ERROR        souphandler.py souphandler    index_soup             19    TreeBuilder.__init__() got an unexpected keyword argument 'htmlDoc'
+2023-10-30 22:35:08,417|ERROR        souphandler.py souphandler    index_guancha_soup     22    网页首页解析错误：Test error
+2023-10-30 22:37:55,305|ERROR        souphandler.py souphandler    index_guancha_soup     22    网页首页解析错误：Test error
+2023-10-30 22:40:10,720|ERROR        souphandler.py souphandler    index_guancha_soup     22    网页首页解析错误：Test error
+2023-10-30 22:48:56,068|ERROR        souphandler.py souphandler    index_guancha_soup     28    网页首页解析错误：object of type 'NoneType' has no len()
+2023-10-31 09:52:10,014|ERROR        souphandler.py souphandler    index_huanqiu_soup     52    环球网首页解析错误：object of type 'NoneType' has no len()
+2023-10-31 09:53:35,736|ERROR        souphandler.py souphandler    index_huanqiu_soup     52    环球网首页解析错误：object of type 'NoneType' has no len()
+2023-10-31 11:38:42,578|ERROR        souphandler.py souphandler    index_ifeng_soup      153    网页首页解析错误：'href'
+2023-10-31 14:34:02,928|ERROR        souphandler.py souphandler    index_ifeng_soup      120    网页首页解析错误：'class'
+2023-10-31 14:35:23,357|ERROR        souphandler.py souphandler    index_ifeng_soup      120    网页首页解析错误：'class'
+2023-10-31 14:36:41,544|ERROR        souphandler.py souphandler    index_ifeng_soup      120    网页首页解析错误：'NoneType' object is not subscriptable
+2023-10-31 14:37:31,234|ERROR        souphandler.py souphandler    index_ifeng_soup      120    网页首页解析错误：'NoneType' object is not subscriptable
+2023-10-31 14:39:02,445|ERROR        souphandler.py souphandler    index_ifeng_soup      121    网页首页解析错误：'class'
+2023-10-31 15:04:44,712|ERROR        souphandler.py souphandler    index_ifeng_soup      121    网页首页解析错误：'NoneType' object is not subscriptable
+2023-10-31 15:05:37,217|ERROR        souphandler.py souphandler    index_ifeng_soup      121    网页首页解析错误：'NoneType' object is not subscriptable
+2023-10-31 15:15:14,309|ERROR        souphandler.py souphandler    index_ifeng_soup      123    网页首页解析错误：dict expected at most 1 argument, got 2
+2023-10-31 16:20:05,788|ERROR        souphandler.py souphandler    index_ifeng_soup      122    网页首页解析错误：'href'
+2023-11-01 18:15:12,675|ERROR        souphandler.py souphandler    index_online_soup     399    网页首页解析错误：object of type 'NoneType' has no len()
+2023-11-01 18:16:54,841|ERROR        souphandler.py souphandler    index_online_soup     399    上海在线解析错误：object of type 'NoneType' has no len()
+2023-11-02 12:30:25,268|ERROR        souphandler.py souphandler    index_wenweipo_soup   499    文汇网解析错误：object of type 'NoneType' has no len()
+2023-11-02 12:37:56,542|ERROR        souphandler.py souphandler    index_wenweipo_soup   493    文汇网解析错误：object of type 'NoneType' has no len()
+2023-11-02 12:42:59,712|ERROR        souphandler.py souphandler    index_wenweipo_soup   493    文汇网解析错误：object of type 'NoneType' has no len()
+2023-11-02 12:56:39,288|ERROR        souphandler.py souphandler    index_wenweipo_soup   496    文汇网解析错误：object of type 'NoneType' has no len()
+2023-11-02 13:02:49,062|ERROR        souphandler.py souphandler    index_wenweipo_soup   496    文汇网解析错误：object of type 'NoneType' has no len()
+2023-11-02 13:07:18,871|ERROR        souphandler.py souphandler    index_wenweipo_soup   496    文汇网解析错误：object of type 'NoneType' has no len()
+2023-11-04 15:10:11,587|ERROR        souphandler.py souphandler    index_exmoo_soup      840    澳門力報解析错误：object of type 'NoneType' has no len()
+2023-11-05 15:45:19,697|ERROR        souphandler.py souphandler    index_yna_soup       1063    解析错误：object of type 'NoneType' has no len()
+2023-11-05 15:46:08,040|ERROR        souphandler.py souphandler    index_yna_soup       1063    解析错误：object of type 'NoneType' has no len()
+2023-11-05 15:47:33,760|ERROR        souphandler.py souphandler    index_yna_soup       1063    解析错误：object of type 'NoneType' has no len()
+2023-11-05 15:48:07,150|ERROR        souphandler.py souphandler    index_yna_soup       1063    解析错误：object of type 'NoneType' has no len()
+2023-11-05 15:55:00,652|ERROR        souphandler.py souphandler    index_yna_soup       1063    解析错误：object of type 'NoneType' has no len()
+2023-11-05 21:10:27,526|ERROR        souphandler.py souphandler    index_vietnamplus_soup 1108    解析错误：object of type 'NoneType' has no len()
+2023-11-05 21:13:40,009|ERROR        souphandler.py souphandler    index_vietnamplus_soup 1108    解析错误：object of type 'NoneType' has no len()
+2023-11-05 22:22:02,747|ERROR        souphandler.py souphandler    index_cc_times_soup  1112    解析错误：object of type 'NoneType' has no len()
+2023-11-05 22:23:47,676|ERROR        souphandler.py souphandler    index_cc_times_soup  1112    解析错误：object of type 'NoneType' has no len()
+2023-11-07 10:14:14,995|ERROR        souphandler.py souphandler    index_ccg_soup       1191    解析错误：object of type 'NoneType' has no len()
